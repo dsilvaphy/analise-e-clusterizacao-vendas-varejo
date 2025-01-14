@@ -28,20 +28,26 @@ Bem-vindo ao repositório **Análise e Clusterização de Vendas no Varejo**! Es
      - Frequência (número de compras realizadas).
      - Valor Monetário (gasto total).
    - Geração de insights para estratégias direcionadas.
-     
-  
-     <div align="center">
-    <img src="https://github.com/dsilvaphy/analise-e-clusterizacao-vendas-varejo/blob/main/capturas/cluster.png" width="400" height="400">
-     </div>
+
+--- 
+
+<div align="center">
+ <img src="https://github.com/dsilvaphy/analise-e-clusterizacao-vendas-varejo/blob/main/capturas/cluster.png" width="400" height="400">
+  </div>
+
+  --- 
+
 
 3. **Dashboard em Power BI**:
    - Visualização interativa de vendas por cliente, produto e vendedor.
    - Análise de desempenho versus metas.
    - Projeções futuras de faturamento.
-  
-     <div align="center">
+
+---
+
+<div align="center">
     <img src="https://github.com/dsilvaphy/analise-e-clusterizacao-vendas-varejo/blob/main/capturas/dashboard1.png" width="700" height="400">
-     </div>
+</div>
 
 ---
 
